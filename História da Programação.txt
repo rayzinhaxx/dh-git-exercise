@@ -1,47 +1,21 @@
-As linguagens de programaÁ„o s„o linguagens usadas para a comunicaÁ„o com o computador. Estas linguagens s„o constituÌdas de comandos, que quando utilizados corretamente, executam uma aÁ„o. A programaÁ„o nos computadores n„o tem uma data correta de inÌcio. Tudo comeÁou na dÈcada de 30, com os primeiros computadores elÈtricos. Em 1948, Konrad Zuse publicou sua criaÁ„o, a linguagem de programaÁ„o Plankalk¸l. Na Època, ainda n„o tinha muita utilidade, ent„o foi esquecida. Antes da programaÁ„o passar para o computador, eram usados cartıes de papel„o que eram perfurados, criando cÛdigos.
+As linguagens de programa√ß√£o s√£o linguagens usadas para a comunica√ß√£o com o computador. Estas linguagens s√£o constitu√≠das de comandos, que quando utilizados corretamente, executam uma a√ß√£o. A programa√ß√£o nos computadores n√£o tem uma data correta de in√≠cio. Tudo come√ßou na d√©cada de 30, com os primeiros computadores el√©tricos. Em 1948, Konrad Zuse publicou sua cria√ß√£o, a linguagem de programa√ß√£o Plankalk√ºl. Na √©poca, ainda n√£o tinha muita utilidade, ent√£o foi esquecida. Antes da programa√ß√£o passar para o computador, eram usados cart√µes de papel√£o que eram perfurados, criando c√≥digos.
 
+Foi na d√©cada de 50 que as primeiras linguagens modernas surgiram. FORTRAN (1955), LISP, a "List Processor‚Äù e COBOL, a COmmon Business Oriented Language.  Tambem apareceu na mesma epoca a ALGOL 60.
 
-
-Foi na dÈcada de 50 que as primeiras linguagens modernas surgiram. FORTRAN (1955), LISP, a "List Processorî e COBOL, a COmmon Business Oriented Language.  Tambem apareceu na mesma epoca a ALGOL 60.
-
-
-
-Os paradigmas da programaÁ„o foram criados, em sua maioria, na dÈcada de 70.  Nesta Època surgiram:
-
-
-
+Os paradigmas da programa√ß√£o foram criados, em sua maioria, na d√©cada de 70.  Nesta √©poca surgiram:
 Simula: inventada nos anos 1960 por Nygaard e Dahl foi a primeira linguagem a suportar o conceito de classes.
-
-C: uma das primeiras linguagens de programaÁ„o de sistemas, criado por Dennis Ritchie e Ken Thompson, tem uma das maiores influencias no mundo atual.
-
-Prolog: projetada em 1972, foi a primeira linguagem de programaÁ„o com paradigma lÛgico.
-
+C: uma das primeiras linguagens de programa√ß√£o de sistemas, criado por Dennis Ritchie e Ken Thompson, tem uma das maiores influencias no mundo atual.
+Prolog: projetada em 1972, foi a primeira linguagem de programa√ß√£o com paradigma l√≥gico.
 Pascal: Outra importante linguagem, embora atualmente esteja quase sem uso.
 
+Nos anos 80 surgiu a linguagem C++, que se tornou t√£o importante quanto o C, entre outras:
+C++: Criada para ser compat√≠vel com C, o C++ foi muito importatante, pois √© mais simples e din√¢mico.
+Perl: Uma boa linguagem. √ìtima para trabalhar em n√≠veis de sobrecarga grandes
 
-
-Nos anos 80 surgiu a linguagem C++, que se tornou t„o importante quanto o C, entre outras:
-
-
-
-C++: Criada para ser compatÌvel com C, o C++ foi muito importatante, pois È mais simples e din‚mico.
-
-Perl: Uma boa linguagem. ”tima para trabalhar em nÌveis de sobrecarga grandes
-
-
-
-Nos anos 90, a internet surgiu como um furac„o, e mudou totalmente o rumo da programaÁ„o. As linguagens Java e Javascript foram criadas nesta Època, ambas relacionadas com a internet, surgiu tambÈm a visual Basic e o Object Pascal.
-
-
-
-Java: Linguagem relativamente simples, orientada para objetos, que foi criada com a Idea de revolucionar as linguagens de programaÁ„o.
-
+Nos anos 90, a internet surgiu como um furac√£o, e mudou totalmente o rumo da programa√ß√£o. As linguagens Java e Javascript foram criadas nesta √©poca, ambas relacionadas com a internet, surgiu tamb√©m a visual Basic e o Object Pascal.
+Java: Linguagem relativamente simples, orientada para objetos, que foi criada com a Idea de revolucionar as linguagens de programa√ß√£o.
 PHP: Muito importante para o desenvolvimento de aplicativos para WEB, esta linguagem esta cada vez mais tomando conta dos Web sites.
 
+A programa√ß√£o esta em todos os equipamentos eletr√¥nicos atuais. Cada programa, cada pagina na internet, esta escrita em alguma linguagem de programa√ß√£o. Com o tempo, as linguagens v√™m se unindo, formando linguagens mais fortes, e com mais fun√ß√µes.
 
-
-A programaÁ„o esta em todos os equipamentos eletrÙnicos atuais. Cada programa, cada pagina na internet, esta escrita em alguma linguagem de programaÁ„o. Com o tempo, as linguagens vÍm se unindo, formando linguagens mais fortes, e com mais funÁıes.
-
-
-
-A programaÁ„o passou por um grande processo, porem bastante r·pido. Estas linguagens est„o ficando cada vez mais f·ceis de interpretar e escrever.
+A programa√ß√£o passou por um grande processo, porem bastante r√°pido. Estas linguagens est√£o ficando cada vez mais f√°ceis de interpretar e escrever.
